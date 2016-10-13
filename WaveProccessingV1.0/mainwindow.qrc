@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file alias="aZoomIn">Resources/aZoomIn.png</file>
+        <file alias="aZoomOut">Resources/AZoomOut.png</file>
+        <file alias="file-open-save">Resources/file-open-save.png</file>
+        <file alias="nextFile">Resources/nextFile.png</file>
+        <file alias="png-process">Resources/png-process.png</file>
+        <file alias="preFile">Resources/preFile.png</file>
+        <file alias="xZoomIn">Resources/xZoomIn.png</file>
+        <file alias="xZoomOut">Resources/xZoomOut.png</file>
+        <file alias="yZoomOut">Resources/yZoomIn.png</file>
+        <file alias="yZoomIn">Resources/yZoomOut.png</file>
+    </qresource>
+</RCC>
